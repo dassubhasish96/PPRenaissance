@@ -2,21 +2,8 @@ import java.math.BigInteger;
 
 public class Test {
 	public static void main(String[] args) {
-		String input1 = "1000000000";
-
-
-		// Convert the string input to BigInteger
-		BigInteger a = new BigInteger(input1);
-		
-		
-
-		// Using multiply() method
-		BigInteger mult = new BigInteger("1");
-		
-		for(int i = 1; i <= 100; i++)
-		mult = mult.multiply(a);
-		
-		System.out.println(mult);
+		int power = (int)(Math.log(4096)/Math.log(2));
+		System.out.println((int)Math.pow(2, power));
 
 	}
 

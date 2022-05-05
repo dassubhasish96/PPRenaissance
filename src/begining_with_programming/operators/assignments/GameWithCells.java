@@ -1,4 +1,4 @@
-package begining_with_programming.operators;
+package begining_with_programming.operators.assignments;
 
 import java.util.Scanner;
 

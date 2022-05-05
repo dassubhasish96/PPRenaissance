@@ -1,4 +1,4 @@
-package begining_with_programming.loops;
+package begining_with_programming.loops.assignments;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package begining_with_programming.decision_making;
+package begining_with_programming.decision_making.assignments;
 
 import java.util.Scanner;
 
